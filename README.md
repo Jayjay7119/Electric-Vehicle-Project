@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights on electric vehicles of certain brands and how some of thier aspecs differ such as acceleration, Powertrain, efficiency, and rapid charging. I have created a tableau dashboard highlighting those aspects linked [here](https://public.tableau.com/app/profile/jayden.lopez3180/viz/EVDashboard_17103865270040/Dashboard1).
+This data analysis project aims to provide a report on electric vehicles of certain brands and how some of thier aspecs differ such as acceleration, Powertrain, efficiency, and rapid charging. I have created a tableau dashboard highlighting those aspects linked [here](https://public.tableau.com/app/profile/jayden.lopez3180/viz/EVDashboard_17103865270040/Dashboard1).
 
 ### Data Sources
 
