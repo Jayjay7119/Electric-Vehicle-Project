@@ -31,4 +31,4 @@ During Data analysis I explored the EV dataset too answer these questions:
 
 ### Data Analysis
 
-During the Data Analysis phase I worked with the "ElectricCarData_Clean.csv". I removed some columns that were not needed for the report (rapidCharging, PlugType, Segments, and Seats) as well as removed some brands but stuck with the major ones (Ford,BMW,Tesla, and Audi). Another task i completed in this phase is Convert data from Kmh to MpH where needed aswell as the price from Euro to USD. 
+During the Data Analysis phase I worked with the "ElectricCarData_Clean.csv". I removed some columns that were not needed for the report (RapidCharging, PlugType, Segments, and Seats) as well as removed some brands but stuck with the major ones (Ford,BMW,Tesla, and Audi). Another task i completed in this phase is Convert data from Kmh to MpH where needed aswell as the price from Euro to USD. 
