@@ -23,7 +23,7 @@ In the initial data cleaning phase I performed the following tasks:
 
 ### Questions
 
-During Data analysis I explored the EV dataset too answer these questions:
+During Data analysis I explored the EV dataset to answer these questions:
   1. Which car has the fastest 0-60 acceleration?
   2. Which has the highest efficiency?
   3. Does a difference in power train effect the range, top speed, efficiency?
